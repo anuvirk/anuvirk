@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anuvirk
-- 👀 I’m interested in developing python and android
+- 👀 I’m interested in developing in python and android
 - 🌱 I’m currently learning both
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me at anupvirkud@protonmail.com
